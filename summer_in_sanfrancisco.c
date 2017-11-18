@@ -88,3 +88,9 @@ void	summer_in_sanfrancisco(int clouds)
 		x++;
 	}
 }
+
+int main()
+{
+	summer_in_sanfrancisco(4);
+	return 0;
+}
